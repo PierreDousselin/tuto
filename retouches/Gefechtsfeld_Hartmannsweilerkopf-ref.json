@@ -1,0 +1,24 @@
+{
+  "zones": [
+    {
+      "nom": "soldat de droite - uniforme feldgrau",
+      "polygone": [[915, 183], [950, 183], [968, 230], [964, 300], [956, 402], [903, 402], [903, 300], [910, 230]],
+      "ab": [0.0, 9.5],
+      "force": 0.9,
+      "l_max": 72
+    },
+    {
+      "nom": "soldat du milieu - uniforme feldgrau",
+      "polygone": [[428, 327], [453, 327], [463, 360], [461, 436], [424, 436], [423, 360]],
+      "ab": [0.0, 9.5],
+      "force": 0.9,
+      "l_max": 72
+    },
+    {
+      "nom": "soldat de droite - visage",
+      "ellipse": [944, 212, 8, 11],
+      "ab": [17.0, 20.0],
+      "force": 0.8
+    }
+  ]
+}

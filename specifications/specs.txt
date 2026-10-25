@@ -1,0 +1,55 @@
+I am giving you two images.
+IMAGE 1 (soldiers with the mule cart in front of the château) is a COLOR 
+REFERENCE ONLY. Do not copy any of its content, figures, objects or 
+composition.
+IMAGE 2 (the shattered forest battlefield of the Hartmannswillerkopf, 
+Vosges, 1915) is the image to rework.
+
+TASK: re-grade and enliven the colors of IMAGE 2 so that its palette, warmth, 
+saturation, contrast and light match IMAGE 1, while keeping IMAGE 2 exactly 
+as it is in every other respect.
+
+ABSOLUTE FIDELITY CONSTRAINT:
+Strictly preserve the composition, framing, perspective and every element of 
+IMAGE 2: each standing and fallen trunk, each log, the wattle fences, the 
+plank structures, the shelters, the two soldiers and their poses. Add 
+nothing, remove nothing, move nothing, do not sharpen or redraw the figures. 
+Preserve the photographic grain and texture.
+
+COLOR TRANSFER FROM IMAGE 1:
+- Overall: adopt the warm, natural and moderately saturated look of IMAGE 1 
+  (roughly 20–30% more saturation and slightly more contrast than the 
+  current IMAGE 2), with clean, luminous highlights and rich but soft 
+  shadows. Remove the greyish, washed-out cast of IMAGE 2.
+- Soldiers' uniforms: use the exact feldgrau tone of the uniforms in IMAGE 1 
+  (soft grey-green with a slight warm undertone). Do not add red piping, 
+  cap bands or insignia unless they are clearly visible in IMAGE 2.
+- Leather (boots, belts, equipment): the warm, deep brown of the boots and 
+  cartridge pouches in IMAGE 1.
+- Skin: the natural, slightly ruddy and weathered skin tones of the 
+  soldiers' faces and hands in IMAGE 1.
+- Fallen logs and planks: the warm grey-beige of the weathered cart wood 
+  in IMAGE 1; freshly splintered wood in the honey-cream tones of the 
+  château doors.
+- Standing shattered trunks: warm grey-brown bark, with richer dark-brown 
+  tones in the charred or wet parts.
+- Ground: the warm ochre-beige of the gravel courtyard in IMAGE 1, varied 
+  with deeper earthy browns in the hollows and shadows.
+- Dry grass, twigs and dead leaves on the slope: the russet, orange and 
+  golden autumn hues of the ivy leaves in IMAGE 1, used sparingly.
+- Shelters, boxes and tarpaulins: dark warm browns and brown-khaki.
+- Sky: keep it overcast but brighter and more luminous, a soft warm 
+  off-white with a very faint pale grey-blue tint, matching the daylight 
+  quality of IMAGE 1.
+Stay historically plausible: no neon, no oversaturated or modern colors, no 
+HDR look.
+
+RENDERING STYLE: hyperrealistic photographic colorization, in full color, 
+looking like a genuine 1915 photograph rendered in natural, vivid daylight 
+colors, with the same photographic quality as IMAGE 1. Fine, credible 
+textures of wood, soil, bark and fabric. No painterly, illustrative or 
+cinematic effects, no sepia tint, no artificial vignette.
+
+OUTPUT FORMAT: landscape (horizontal) orientation, same aspect ratio as 
+IMAGE 2 (about 3:2), identical framing, maximum available resolution, a 
+single image, no text, no caption, no added frame or signature.
